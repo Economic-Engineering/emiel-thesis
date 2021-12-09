@@ -1,0 +1,6 @@
+[submodule "midterm"]
+	path = midterm
+	url = https://github.com/ebleg/midterm.git
+[submodule "thesis"]
+	path = thesis
+	url = https://github.com/ebleg/thesis.git
